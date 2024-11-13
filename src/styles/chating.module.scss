@@ -1,0 +1,113 @@
+.chating {
+
+    margin-top: 10px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 20px 0px rgb(120 129 237);
+    height: 100%;
+
+    .header_of_chating {
+        padding: 10px;
+        background-color: rgb(120 129 237);
+        border-radius: 5px 5px 0 0;
+        color: rgba(0, 0, 0, 0.507);
+        font-weight: 600;
+    }
+
+
+    .messages_cont {
+
+        display: flex;
+        justify-content: space-between;
+
+        .user_message {
+            margin: 20px 15px;
+            background-color: rgb(223, 223, 223);
+            padding: 10px;
+            width: 350px;
+            border-radius: 5px;
+
+
+            .user_of_message {
+                color: black;
+                text-align: start;
+                font-weight: 500;
+                font-style: italic;
+            }
+
+            .message_of_user {
+                font-size: 15px;
+                color: black;
+                text-align: start;
+            }
+
+            .message_time {
+                font-weight: 200;
+                font-size: 10px;
+                color: rgb(113, 111, 111);
+                text-align: end;
+            }
+        }
+
+
+        .my_message {
+            margin: 20px 15px;
+            background-color: rgb(223, 223, 223);
+            padding: 10px;
+            width: 350px;
+            border-radius: 5px;
+            position: relative;
+            top: 120px;
+
+
+            .user_of_message {
+                color: black;
+                text-align: start;
+                font-weight: 500;
+                font-style: italic;
+            }
+
+            .message_of_user {
+                font-size: 15px;
+                color: black;
+                text-align: start;
+            }
+
+            .message_time {
+                font-weight: 200;
+                font-size: 10px;
+                color: rgb(113, 111, 111);
+                text-align: end;
+            }
+        }
+
+
+    }
+
+    .placeholder_cont {
+        padding: 15px 20px;
+        background-color: rgb(94, 75, 237);
+        position: sticky;
+        top: 90%;
+        display: flex;
+        justify-content: space-evenly;
+
+        .placeholder {
+            width: 80%;
+            padding: 10px;
+            border-radius: 5px;
+            outline: none;
+            border: none;
+        }
+
+        >button {
+            padding: 10px;
+            border-radius: 5px;
+            border: none;
+            cursor: pointer;
+
+        }
+    }
+
+
+
+}

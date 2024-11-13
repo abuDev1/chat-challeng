@@ -1,0 +1,17 @@
+.app_cont {
+    text-align: center;
+
+    .row {
+        display: flex;
+        justify-content: space-between;
+        margin: auto;
+
+        .colomn_one {
+            width: 25%;
+        }
+
+        .colomn_two {
+            width: 70%;
+        }
+    }
+}
