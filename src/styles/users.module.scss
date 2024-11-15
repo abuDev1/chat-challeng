@@ -19,11 +19,18 @@
             padding: 15px;
             text-align: left;
             cursor: pointer;
+            
 
             &:hover {
                 background-color: rgb(94, 75, 237);
                 cursor: pointer;
                 border-radius: 5px;
+            }
+
+            > a {
+                text-decoration: none;
+                color: white;
+               
             }
         }
     }
