@@ -1,0 +1,106 @@
+{
+  "users": [
+    {
+      "username": "Иван Иванов",
+      "id": 1
+    },
+    {
+      "username": "User Userovich",
+      "id": 2
+    },
+    {
+      "username": "Бадуев Саид",
+      "id": 3
+    },
+    {
+      "username": "Иван Грозный",
+      "id": 4
+    },
+    {
+      "username": "Евгения Осипова",
+      "id": 5
+    },
+    {
+      "username": "Муслим Абазов",
+      "id": 6
+    },
+    {
+      "username": "Виктория Лопырева",
+      "id": 7
+    },
+    {
+      "username": "Всеволод Радонежский",
+      "id": 8
+    },
+    {
+      "username": "Ростислав Баженов",
+      "id": 9
+    },
+    {
+      "username": "Ольга Хмурая",
+      "id": 10
+    }
+  ],
+  "messages": [
+    {
+      "message_id": 1,
+      "user_id": 1,
+      "timestamp": "12.23",
+      "message": "Здравствуйте! Объявление актуально?"
+    },
+    {
+      "message_id": 2,
+      "user_id": 2,
+      "timestamp": "15.40",
+      "message": "Привет! Можешь помочь?"
+    },
+    {
+      "message_id": 3,
+      "user_id": 3,
+      "timestamp": "09.13",
+      "message": "У меня возникли проблемы с этим заданием"
+    },
+    {
+      "message_id": 4,
+      "user_id": 4,
+      "timestamp": "03.41",
+      "message": "Дай знать как освободишься"
+    },
+    {
+      "message_id": 5,
+      "user_id": 5,
+      "timestamp": "17.10",
+      "message": "Ахахахахаахах"
+    },
+    {
+      "message_id": 6,
+      "user_id": 6,
+      "timestamp": "07.40",
+      "message": "Во сколько семинар, братан?"
+    },
+    {
+      "message_id": 7,
+      "user_id": 7,
+      "timestamp": "21.30",
+      "message": "Как жизнь, учитель?"
+    },
+    {
+      "message_id": 8,
+      "user_id": 8,
+      "timestamp": "23.15",
+      "message": "Привет. Необходимо разъяснение по проекту"
+    },
+    {
+      "message_id": 9,
+      "user_id": 9,
+      "timestamp": "23.03",
+      "message": "Здравствуйте! За сколько продадите?"
+    },
+    {
+      "message_id": 10,
+      "user_id": 10,
+      "timestamp": "0.43",
+      "message": "Замаялся выдумывать фейковые сообщения!"
+    }
+  ]
+}
